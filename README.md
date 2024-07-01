@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hi, I'm Denis! 👋
+<h1 align="left">Hi, I'm Denis! 👋
 	
 ![](https://komarev.com/ghpvc/?username=dionusios50)
 	
