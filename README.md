@@ -28,7 +28,7 @@ Sincerely, Denis.</p>
 
 ###
 
-<h4 align="left">🛠 Skills:</h4>
+<h4 align="left">🛠 Skills and Experience:</h4>
 
 
 ###
