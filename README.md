@@ -7,7 +7,8 @@
 ###
 
 <h1 align="center">Hi, I'm Denis! 👋
-
+![](https://komarev.com/ghpvc/?username=dionusios50)
+	
 ###
 <h3 align="left">Feedback</h3>
 <p>If you have any feedback, please reach out to us at</p>
